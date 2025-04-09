@@ -35,6 +35,3 @@ Edit
 python code/test_commutative.py
 Purpose
 Originally developed for the CS2006 module, this project investigates the behavior of mathematical operations under non-standard definitions, making it useful for exploring theoretical computer science or mathematical logic topics.
-
-License
-This project is provided for educational purposes and does not currently include a license. Contact the authors for reuse or distribution.
